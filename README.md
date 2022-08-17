@@ -9,7 +9,7 @@
   </a>
 </h3>
 <p align= "center">
-    <a href="https://github.com/hadikachmar3/grocery_admin_panel_course">
+    <a href="https://github.com/azwarkoto/grocery_admin_panel_course">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/171286502-66810061-f1cd-4c33-9e73-9ff856459226.png" alt="Flutter grocery admin panel">
         <br>
@@ -17,7 +17,7 @@
      </kbd>
   </a>
 <!--  App source code  -->
-      <a href="https://github.com/hadikachmar3/grocery_app_course">
+      <a href="https://azwarkoto/grocery_app_course">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/167090270-f4559177-27d1-49d1-9afe-6411e7cbd25d.png" alt="Flutter grocery admin panel">
         <br>
@@ -38,7 +38,7 @@
         <font size="2"> - ⭐ </font>
      </kbd>
   </a>
-  <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?referralCode=B6FA32F8946EF083C9A2">
+  <a href="">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/167090270-f4559177-27d1-49d1-9afe-6411e7cbd25d.png" alt="Flutter grocery course">
         <br>
@@ -58,7 +58,7 @@
      </kbd>
   </a>
   
-   <a href="https://youtu.be/cXxJmjC1rHw">
+   <a href="">
      <kbd>
         <img height= "150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Watch demo">
         <br>
@@ -93,7 +93,7 @@
         <font size="2"> 4.7 ⭐ </font>
      </kbd>
   </a>
-  <a href="https://www.udemy.com/course/flutter-22firebase/">
+  <a href="">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496706-c08a629a-9372-4416-804e-f3d45f0cb59d.png" alt="Flutter WorkOS Course [AR]">
         <br>
@@ -105,13 +105,13 @@
 </p>
 <hr>
 <h3>
-  <a href="https://www.udemy.com/user/hadi-kachmar-2/">
+  <a href="">
     😍 Useful flutter apps
   </a>
 </h3>
  
 <p align= "center">
-  <a href="https://play.google.com/store/apps/details?id=com.hadik.flutterer">
+  <a href="">
      <kbd>
         <img height= "150" src="https://play-lh.googleusercontent.com/Oq38GkMRDSh-ZZJnyRhfIB1Zgb9tTFGvS9YX_SdwJEsostmNmi09W4AdHoLrig2SZw=s180-rw" alt="Flutter helper kit">
         <br><br>
@@ -119,7 +119,7 @@
         <br>
      </kbd>
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.hadik3.flutterer2">
+  <a href="">
      <kbd>
         <img height= "150" src="https://play-lh.googleusercontent.com/NeNhnY4GF01_0GhhukkfNMGyZ88jC14eb8MxQT_4ql8r9KlN0SmW5QLQn2wvSJ0IGg=s180-rw" alt="Flutter helper kit v2">
         <br><br>
