@@ -60,7 +60,7 @@
   
    <a href="">
      <kbd>
-        <img height= "150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="Watch demo">
+       
         <br>
         <font size="1">Wacth app overview</font>
         <br><br>
