@@ -30,6 +30,7 @@
 
 <p align= "center">
   <a href="https://www.udemy.com/course/flutter-30rest-api-crash-course-build-a-news-app-from-zero/?referralCode=51B0E1AC01B51390185B">
+     <a href="https://github.com/azwarkoto/-3-fake_store_api_flutter_course-">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/176717061-1dc49177-c9a4-4206-9e1b-4f9c20686185.png" alt="Flutter Rest API course">
         <br>
