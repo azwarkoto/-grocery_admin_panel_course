@@ -17,7 +17,7 @@
      </kbd>
   </a>
 <!--  App source code  -->
-      <a href="https://azwarkoto/grocery_app_course">
+      <a href="https://github.com/azwarkoto/grocery_app_course">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/167090270-f4559177-27d1-49d1-9afe-6411e7cbd25d.png" alt="Flutter grocery admin panel">
         <br>
