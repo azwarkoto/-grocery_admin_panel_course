@@ -4,7 +4,7 @@
 
 <hr>
 <h3>
-  <a href="https://www.udemy.com/course/flutter-210firebase-build-a-grocery-app-with-admin-panel/?referralCode=B6FA32F8946EF083C9A2">
+  <a href="">
     👨🏻‍🎓 Get this course on udemy
   </a>
 </h3>
@@ -69,13 +69,13 @@
 </p>
 <hr>
 <h3>
-  <a href="https://www.udemy.com/user/hadi-kachmar-2/">
+  <a href="">
     👨‍🏫 Udemy courses by me
   </a>
 </h3>
   
 <p align= "center">
-  <a href="https://www.udemy.com/course/flutter-with-firebase-build-an-e-commerce-app-from-scratch/">
+  <a href="">
      <kbd>
         <img height= "150" src="https://cdn-thumbs.comidoc.net/750/webp/3715884_a2d1_3.webp" alt="Flutter shop course">
         <br>
@@ -84,7 +84,7 @@
         <font size="2"> 4.4 ⭐ </font>
      </kbd>
   </a>
-  <a href="https://www.udemy.com/course/flutter-22-firebase-build-a-complete-app-from-scratch/">
+  <a href="">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/140496712-67888490-e76e-4320-930f-89c6ece4e4bd.png" alt="Flutter WorkOS Course [EN]">
         <br>
@@ -129,10 +129,3 @@
   </a>
   </p>
 
-[udemy]: https://www.udemy.com/user/hadi-kachmar-2/
-[youtube]: https://www.youtube.com/channel/UCTGDYkqUtgCelc6G09LUm6w
-[linkedin]: https://www.linkedin.com/in/hadi-kachmar-27a56a177/
-[github]: https://github.com/hadikachmar3
-[email]: mailto:flutterer.dev@gmail.com
-[facebook]: https://www.facebook.com/Coding-with-Hadi-113431577650864/
-<!-- [course_logo]: https://user-images.githubusercontent.com/38382273/167090270-f4559177-27d1-49d1-9afe-6411e7cbd25d.png -->
