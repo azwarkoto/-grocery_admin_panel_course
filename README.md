@@ -9,7 +9,7 @@
   </a>
 </h3>
 <p align= "center">
-    <a href="https://github.com/azwarkoto/grocery_admin_panel_course">
+    <a href="https://github.com/azwarkoto/-grocery_admin_panel_course">
      <kbd>
         <img height= "150" src="https://user-images.githubusercontent.com/38382273/171286502-66810061-f1cd-4c33-9e73-9ff856459226.png" alt="Flutter grocery admin panel">
         <br>
